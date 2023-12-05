@@ -53,9 +53,9 @@ export default function Home() {
             <span className="blast">l</span>
             <span className="blast">,</span>
             <br />
-            <span className="blast">w</span>
-            <span className="blast">e</span>
-            <span className="blast">b&nbsp;</span>
+            <span className="blast">S</span>
+            <span className="blast">W</span>
+            <span className="blast">E&nbsp;</span>
             <span className="blast">d</span>
             <span className="blast">e</span>
             <span className="blast">v</span>
