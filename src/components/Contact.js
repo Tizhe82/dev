@@ -171,7 +171,7 @@ export default function Contact() {
           <iframe
             title="gmap_canvas"
             id="gmap_canvas"
-            src="https://www.google.com.ng/maps/place/Kubwa,+Abuja+901101,+Federal+Capital+Territory/@6.5861517,3.3650883,21z/data=!4m6!3m5!1s0x104dd8f1cae4b611:0x6e69ae7a4719bb62!8m2!3d9.1538486!4d7.3219648!16s%2Fm%2F0r4qc9y?hl=en&entry=ttu"
+            src="https://www.google.com/maps/d/viewer?mid=1pTESdJtFOYPAd20ZI1jTCWV2QOE&hl=en&ll=9.15569226780622%2C7.320405699999988&z=14"
             width="100%"
             height="100%"
             frameBorder="0"
