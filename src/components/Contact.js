@@ -171,7 +171,7 @@ export default function Contact() {
           <iframe
             title="gmap_canvas"
             id="gmap_canvas"
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d633470.5169291274!2d76.89342349926463!3d28.705698137363992!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d013a47a1803d%3A0xedfb8cc477815e2f!2sRohini%2C%20New%20Delhi%2C%20Delhi%2C%20India!5e0!3m2!1sen!2sus!4v1597408824240!5m2!1sen!2sus"
+            src="https://www.google.com.ng/maps/place/Kubwa,+Abuja+901101,+Federal+Capital+Territory/@6.5861517,3.3650883,21z/data=!4m6!3m5!1s0x104dd8f1cae4b611:0x6e69ae7a4719bb62!8m2!3d9.1538486!4d7.3219648!16s%2Fm%2F0r4qc9y?hl=en&entry=ttu"
             width="100%"
             height="100%"
             frameBorder="0"
