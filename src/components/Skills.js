@@ -3,7 +3,7 @@ import bounce from "../script/bounce";
 
 export default function Skills() {
   useEffect(() => {
-    document.title = "Simranjeet Singh | Skills ";
+    document.title = "Tizhe Paul | Skills ";
 
     bounce();
   }, []);
@@ -14,7 +14,7 @@ export default function Skills() {
         <span className="tags top-tags"> &nbsp;&nbsp;&nbsp;&lt;body&gt;</span>
         <div className="text-zone">
           <h1
-            aria-label=" Hi, I’m Simranjeet,web developer."
+            aria-label=" Hi, I’m Tizhe Paul,web developer."
             className="blast-root"
           >
             <span className="blast" style={{ color: "#23ffde" }}>
@@ -34,9 +34,9 @@ export default function Skills() {
             Tech I know:
             &nbsp;&nbsp; <b>Javascript &nbsp;|&nbsp; Ruby &nbsp;|&nbsp; TypeScript   &nbsp;|&nbsp;  Rust </b><br />
             <br />
-            &nbsp;&nbsp; • &nbsp;&nbsp; ReactJs, NextJs , GatsbyJs , Svelte<br />
-            &nbsp;&nbsp; • &nbsp;&nbsp; NodeJs , Express , MongoDB<br />
-            &nbsp;&nbsp; • &nbsp;&nbsp; SQL , AWS, GCP, and Netlify<br />
+            &nbsp;&nbsp; • &nbsp;&nbsp; ReactJs, VueJs<br />
+            &nbsp;&nbsp; • &nbsp;&nbsp; NodeJs , Express , <br />
+            &nbsp;&nbsp; • &nbsp;&nbsp; SQL , AWS, GCP, Netlify, Firebase<br />
             &nbsp;&nbsp; • &nbsp;&nbsp; JavaScript + Ruby + Rust New Bee<br />
             <br />
             <br />

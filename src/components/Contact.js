@@ -45,7 +45,7 @@ export default function Contact() {
         <span className="tags top-tags"> &nbsp;&nbsp;&nbsp;&lt;body&gt;</span>
         <div className="text-zone">
           <h1
-            aria-label=" Hi, I’m Simranjeet,web developer."
+            aria-label=" Hi, I’m Tizhe Paul,web developer."
             className="blast-root"
           >
             <span className="blast" style={{ color: "#23ffde" }}>
@@ -90,7 +90,7 @@ export default function Contact() {
               autoComplete="off"
             >
               <input type="hidden" name="_captcha" value="false" />
-              <input type="hidden" name="_next" value="https://smrnjeet222.github.io/contact?response=true" />
+              <input type="hidden" name="_next" value="https://dev-tizhel.vercel.app/contact?response=true" />
               <input type="text" name="_honey" style={{ "display": "none" }} />
               <motion.input
                 id="name"

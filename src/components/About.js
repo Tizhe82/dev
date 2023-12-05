@@ -3,7 +3,7 @@ import bounce from "../script/bounce";
 
 export default function About() {
   useEffect(() => {
-    document.title = "Simranjeet Singh | About Me ";
+    document.title = "Tizhe Paul | About Me ";
 
     bounce();
   }, []);
